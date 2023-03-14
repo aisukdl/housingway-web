@@ -1,0 +1,12 @@
+.info-page{
+  background-color: #FFF;
+  width: 85%;
+  height: 80%;
+  border-radius: 20px;
+  padding: 50px;
+  overflow: scroll;
+} 
+h1 {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}

@@ -1,0 +1,35 @@
+.home-container{
+    background-color: #FFF;
+    width: 85%;
+    height: 80%;
+    border-radius: 20px;
+    padding: 50px;
+    overflow: scroll;
+    display: flex;
+    flex-direction: column;
+  } 
+  h1 {
+      margin-top: 2rem;
+      margin-bottom: 2rem;
+  }
+  .carousel-container {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+.text-container{
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  height: calc(80vh - 160px );
+  justify-content: center;
+  align-items: center;
+}
+
+.text-container img {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+}
+
